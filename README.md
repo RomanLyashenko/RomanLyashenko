@@ -5,4 +5,4 @@
 
 <h3> my projects </h3>
  - [ClassWorkCpp](https://github.com/RomanLyashenko/ClassWorkCPP) - классные работы по курсу C++
- - [HomeWorkCPP](https://github.com/RomanLyashenko/HomeWorkCPP/edit/main/README.md) - домашние работы по курсу C++
+ - [HomeWorkCPP](https://github.com/RomanLyashenko/HomeWorkCPP) - домашние работы по курсу C++
