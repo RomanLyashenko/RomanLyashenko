@@ -2,3 +2,4 @@
 ### stack techologies
 - Python
 - C++
+- Кумир
