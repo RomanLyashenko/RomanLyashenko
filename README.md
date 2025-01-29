@@ -8,3 +8,5 @@
 ## my projects
 - [ClassWorkCpp](https://github.com/RomanLyashenko/ClassWorkCPP) - классные работы по курсу C++
 - [HomeWorkCPP](https://github.com/RomanLyashenko/HomeWorkCPP) - домашние работы по курсу C++
+- [ClassWorkUML](https://github.com/RomanLyashenko/ClassWorkUML) - классные работы по курсу UML
+- [HomeWorkUML](https://github.com/RomanLyashenko/HomeWorkUML) - домашние работы по курсу UML
