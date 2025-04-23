@@ -11,3 +11,4 @@
 - [ClassWorkUML](https://github.com/RomanLyashenko/ClassWorkUML) - классные работы по курсу UML
 - [HomeWorkUML](https://github.com/RomanLyashenko/HomeWorkUML) - домашние работы по курсу UML
 - [ClassWorkCS](https://github.com/RomanLyashenko/ClassWorkCS) - классные работы по курсу C# <br>
+- [HomeWorkCS](https://github.com/RomanLyashenko/HomeWorkCS)- домашние работы по курсу C# <br>
